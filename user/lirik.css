@@ -1,0 +1,23 @@
+body {
+  background-image: url("../image/9697ee97-3c00-4aa8-9683-746229630851.jpg");
+  overflow: hidden;
+  background-size: cover;
+}
+p {
+  color: aliceblue;
+}
+strong {
+  color: yellow;
+}
+.lirik {
+  position: relative;
+  width: 400px;
+  height: 450px;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  backdrop-filter: blur(15px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
